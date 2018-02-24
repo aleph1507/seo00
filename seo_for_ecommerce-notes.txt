@@ -1,0 +1,128 @@
+-seo for ecommerce
+short keyword 2-
+long tail keywords 3+
+SEMrush
+internetmarketingninjas side by side seo comparison
+page title: 
+	50-60 chars max
+	use important keywords at the beginning
+	use unique title for each page
+
+meta description:
+	150-160 chars max
+	clear, easy to understand
+	unique for each page
+
+headings:
+	structure
+	keywords
+
+contents:
+	keywords
+	img.alt-text
+	
+internal links:
+	footer to every page, menu, content
+	keywords for anchor text
+	backlinks with keywords for anchor text
+	avoid generic anchor text (click here)
+	avoid img as links
+	fixed top nav
+
+inbound links (backlinks)
+	better rep sites
+	product review site
+	keyword anchor
+	
+page rank:
+	5+ = good rep
+	checkpagerank.net
+
+page urls:
+	category based (/products/sneakers/adidas-basketball-jordans)
+	keywords in page url
+	no unnessesary chars
+
+no duplicate content
+	in title, description, headings, content
+	no manufacturer description
+	canonical tag telling google which is the original
+		<link rel="canonical" href="www.asdasdasdasd.com">
+	
+retain rankings despite deletion:
+	301 redirect
+
+keyword density:
+	(targeted keywords / total words on page) * 100
+	few essentials keywords implemented naturally (heading tag->contents)
+
+rich media:
+	avoid slow load speed, page speed
+	740KB image too big, compressjpeg.com
+	video: summary or some content about the video nearby on the page
+	offer social sharing links
+	hosting videos on youtube
+
+load speed:
+	pagespeedinsights
+	optimize video and images
+	quality hosting service
+	minify code (css/js)
+	use a CDN (cloudflare, shopify), reduce self-hosting
+	
+SEO measurement:
+	google analytics
+		conversions->goals
+	
+domain name:
+	keyword/brand/combination
+	avoid uncommon TLDs/go with .com
+	one hyphen max
+	short/2-words-max
+
+home/landing page:
+	customers benefints instead of features
+	full of CTAs(calls to action)
+	prominent explanatory heading
+	above the fold(pre scroll)
+	light, easy to skim
+	match tone to potential buyer
+
+product pages:
+	implement breadcrumbs
+	social sharing buttons
+	use consistent titles (product name - product category | business name)
+	use unique product descriptions (do not copy manufacturer description)
+
+blog:
+	social sharing/link building
+	capture news letter signups
+	target fresh set of keywords
+	
+customer reviews:
+	rich snippets - star rating, product reviews app
+	
+mobile seo:
+	google checks for mobile friendly bagde
+	google mobile-friendly testing tool
+	avoid using flash or data-heavy media on mobile
+	avarage mobile font size is 17px
+
+optimizely.com
+	create experiment (change color of add-to-cart)
+
+google analytics
+
+heat-mapping tools
+	crazyegg - paid service
+
+mouse tracking software
+	mouseflow.com - paid tool
+
+moz suite, moz.com - paid
+	
+	
+resources:
+	moz.com/blog
+	searchengineland.com
+	blog.kissmetrics.com  - data analysis for seo

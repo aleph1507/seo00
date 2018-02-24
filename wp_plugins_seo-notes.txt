@@ -1,0 +1,5 @@
+-wordpress plugins seo
+plugins that add meta-title and meta-description for 
+	wp sites for search engines and social networks
+
+All in One SEO Pack

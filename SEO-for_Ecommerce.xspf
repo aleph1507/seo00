@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/001%20Welcome.mp4</location>
+			<duration>71300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/002%20What%20you%20should%20know%20before%20watching%20this%20course.mp4</location>
+			<duration>97533</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/003%20What%20is%20SEO%20for%20ecommerce_.mp4</location>
+			<duration>132466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/004%20Understanding%20on-page%20vs.%20off-page%20SEO.mp4</location>
+			<duration>120933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/005%20The%20importance%20of%20usability.mp4</location>
+			<duration>191066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/006%20Exploring%20how%20SEO%20affects%20the%20buying%20process.mp4</location>
+			<duration>155933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/007%20Setting%20expectations%20and%20establishing%20realistic%20goals%20for%20your%20SEO%20results.mp4</location>
+			<duration>133266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/008%20Understanding%20exactly%20who%20your%20customer%20is.mp4</location>
+			<duration>131266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/009%20Creating%20buyer%20personas.mp4</location>
+			<duration>145066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/010%20Using%20simple%20and%20long%20tail%20keyword%20searches.mp4</location>
+			<duration>117133</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/011%20Getting%20the%20most%20out%20of%20keyword%20research.mp4</location>
+			<duration>228066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/012%20Carrying%20out%20competitor%20research.mp4</location>
+			<duration>174533</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/013%20Harnessing%20page%20titles%20and%20meta%20information.mp4</location>
+			<duration>305133</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/014%20Exploring%20page%20structure%20-%20Headings,%20copy,%20and%20images.mp4</location>
+			<duration>252933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/015%20Crafting%20internal%20links%20to%20help%20search%20engines%20explore%20your%20site.mp4</location>
+			<duration>214266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/016%20Earning%20inbound%20links%20to%20raise%20your%20ranking.mp4</location>
+			<duration>251066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/017%20Creating%20page%20URLs%20that%20are%20easy%20to%20understand%20and%20share.mp4</location>
+			<duration>244600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/018%20Eliminating%20duplicate%20content%20so%20your%20site%20doesn%60t%20get%20penalized.mp4</location>
+			<duration>208600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/019%20Retaining%20search%20rankings%20despite%20the%20deletion%20of%20pages.mp4</location>
+			<duration>265733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/020%20Avoiding%20unnatural%20keyword%20usage.mp4</location>
+			<duration>302466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/021%20Using%20rich%20media%20to%20promote%20your%20SEO%20results.mp4</location>
+			<duration>260866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/022%20Minimizing%20your%20website%20loading%20speeds.mp4</location>
+			<duration>304400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/023%20Correlating%20your%20SEO%20efforts%20to%20sales%20or%20other%20quantitative%20measures.mp4</location>
+			<duration>288266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/024%20Aligning%20your%20domain%20name%20with%20your%20target%20audience.mp4</location>
+			<duration>219133</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/025%20Designing%20your%20landing%20page%20to%20drive%20deeper%20engagement.mp4</location>
+			<duration>168400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/026%20Optimizing%20your%20product%20pages%20via%20breadcrumbs,%20pages%20titles,%20and%20social%20links.mp4</location>
+			<duration>195200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/027%20Using%20blogging%20for%20SEO.mp4</location>
+			<duration>142733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/028%20Implementing%20customer%20reviews%20to%20boost%20SEO%20scores.mp4</location>
+			<duration>179733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/029%20Understanding%20how%20mobile%20usability%20affects%20SEO.mp4</location>
+			<duration>187733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/030%20Using%20Optimizely%20for%20A-B%20testing.mp4</location>
+			<duration>418333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/031%20Harnessing%20Google%20Analytics%20to%20better%20understand%20site%20visitors.mp4</location>
+			<duration>130000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/032%20Employing%20heatmapping%20tools%20to%20measure%20and%20monitor%20page%20usage.mp4</location>
+			<duration>405800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/033%20Using%20mouse%20tracking%20tools%20to%20identify%20sticking%20points.mp4</location>
+			<duration>366400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/034%20Applying%20Moz%20for%20larger%20scale%20sites.mp4</location>
+			<duration>287266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20SEO%20for%20Ecommerce/035%20Next%20steps.mp4</location>
+			<duration>94066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+	</extension>
+</playlist>

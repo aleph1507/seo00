@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/0.%20Introduction/1.Welcome.mp4</location>
+			<duration>43900</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/0.%20Introduction/2.What%20you%20should%20know%20before%20starting%20this%20course.mp4</location>
+			<duration>64400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/1.%20Basic%20SEO%20and%20Social%20Sharing%20principles/1.What%20is%20SEO%20and%20social%20sharing.m4a</location>
+			<duration>216666</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/1.%20Basic%20SEO%20and%20Social%20Sharing%20principles/2.Understanding%20what%20a%20plugin%20is%20and%20how%20it%20works.mp4</location>
+			<duration>190266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/2.%20Using%20All%20In%20One%20SEO%20Pack/1.Installing%20and%20activating%20All%20In%20One%20SEO%20Pack.m4a</location>
+			<duration>137733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/2.%20Using%20All%20In%20One%20SEO%20Pack/2.Adding%20SEO%20info%20for%20posts%20and%20pages.mp4</location>
+			<duration>438266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/2.%20Using%20All%20In%20One%20SEO%20Pack/3.Configuring%20general%20settings.mp4</location>
+			<duration>645800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/2.%20Using%20All%20In%20One%20SEO%20Pack/4.Configuring%20SEO%20for%20the%20whole%20site.mp4</location>
+			<duration>270066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/2.%20Using%20All%20In%20One%20SEO%20Pack/5.Pro%20features.mp4</location>
+			<duration>330133</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/3.%20Using%20WordPress%20SEO%20by%20Yoast/1.Installing%20and%20activating%20WordPress%20SEO%20by%20Yoast.m4a</location>
+			<duration>148000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/3.%20Using%20WordPress%20SEO%20by%20Yoast/2.Importing%20SEO%20content%20from%20All%20In%20One%20SEO%20Pack.m4a</location>
+			<duration>168266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/3.%20Using%20WordPress%20SEO%20by%20Yoast/3.Overview%20and%20basic%20setup.mp4</location>
+			<duration>740933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/3.%20Using%20WordPress%20SEO%20by%20Yoast/4.Configuring%20site-wide%20titles%20and%20meta%20descriptions%205m%2040s.mp4</location>
+			<duration>340533</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/3.%20Using%20WordPress%20SEO%20by%20Yoast/5.Adding%20SEO%20info%20to%20posts%20and%20pages.mp4</location>
+			<duration>288800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/3.%20Using%20WordPress%20SEO%20by%20Yoast/6.Using%20Focus%20Keyword%20and%20Page%20Analysis.mp4</location>
+			<duration>370800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/t1/Lynda%20-%20WordPress%20Plugins%20SEO/Conclusion/1.Further%20learning.m4a</location>
+			<duration>81533</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+	</extension>
+</playlist>
